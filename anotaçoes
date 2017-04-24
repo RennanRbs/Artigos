@@ -3,11 +3,13 @@
 1 – INTRODUÇÃO
 
 1.1 – JAMMER
-Jammer é um equipamento bloqueador de sinal, que vem sendo vendido livremente em
-sites nacionais e internacionais, e é capaz de interferir de forma destrutiva em cada
-operação específica, impedindo a comunicação do veículo com a central de
-monitoramento, por meio de telefonia móvel. Desta forma sua utilização se torna um risco
-para sociedade.
+Jamming é o nome dado a diversas técnicas utilizadas com o objetivo de interferir ou interromper
+deliberadamente comunicações em rádio frequência(RF). Jammers são empregados em guerra eletrônica, controle de
+comunicações, bloqueadores de sinal de telefonia móvel etc. Neste experimento será proposto um sistema de jamming
+com detecção automática de estações transmissoras de rádio FM utilizando-se de um rádio SDR NI USRP -2920 e um
+computador hospedeiro com o software LabVIEW©. O Sistema utiliza um algoritmo para a varredura de banda de
+transmissão com o objetivo de encontrar possíveis estações transmissoras e ataca-las. Será tratado também da
+importância de se encontrar o equilíbrio entre desempenho e precisão para o funcionamento do sistema proposto. 
 
 
 1.2 – COMO FUNCIONA O JAMMER
