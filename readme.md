@@ -6,7 +6,7 @@ Aprofundamento em linguagens Java ,JS ,C#, C,C++,HTML e Python.
 Pesquisador em Segurança IOT.
 
 ## About This project
-Criação de aplicativo web para controle interna de rede elétrica. :shipit:
+Estudo sobre publicações. :shipit:
 
 
 
